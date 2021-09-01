@@ -67,3 +67,21 @@ body{
 .status.red{
    background: red;
 }
+
+.highlight {
+   background-color: #fd951f08;
+}
+.card, .dropzone{
+   transition: .4s;
+}
+
+.is-dragging {
+   cursor: move;
+   opacity: 0.3;
+}
+
+.over {
+   background-color: rgba(255, 251, 0, 0.924);
+}
+
+/*#4cd13711*/
