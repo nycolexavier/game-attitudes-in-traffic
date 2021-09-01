@@ -5,3 +5,8 @@
 html {
    font-family: 'Nunito';
 }
+
+body{
+   background-color: #130f0d;
+   color: white;
+}
