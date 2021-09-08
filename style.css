@@ -7,8 +7,8 @@ html {
 }
 
 body{
-   background-color: #130f0d;
-   color: white;
+   background-color: #F8E7D1;
+   color: black;
 }
 
 .boards {
@@ -19,7 +19,7 @@ body{
 }
 
 .board{
-   background: #141216;
+   background: #FEFDFC;
    border: 1px solid #fd951f11;
    border-radius: 4px;
 
@@ -29,7 +29,8 @@ body{
 .board h3 {
    padding: 16px;
    margin: 0;
-   color: #fd951fcc;
+   background-color: #328B8F;
+   color: white;
 
 }
 
@@ -47,7 +48,7 @@ body{
    border-radius: 4px;
    font-weight: 600;
    font-size: 18px;
-   background: #1a1a1c;
+   background: #91D5D8;
 }
 
 .status {
