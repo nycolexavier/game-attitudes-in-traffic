@@ -1,7 +1,7 @@
 ![attitudes-in-traffic-game-banner](https://user-images.githubusercontent.com/74930052/131497894-fe629264-a478-4f80-a0b7-4b10027ed4fc.png)
 ---
 
-<img src="https://img.shields.io/static/v1?label=Status&message=incomplete&color=ff0000&style=for-the-badge&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
  
 <p align="center">O tutorial está disponível no canal da RocketSeat: <a href="https://www.youtube.com/watch?v=6wn8hpUcEcM" > aqui </a> </p>
 
